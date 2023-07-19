@@ -1,0 +1,43 @@
+{
+  "coord": {
+    "lon": 60.6254,
+    "lat": 41.5523
+  },
+  "weather": [
+    {
+      "id": 800,
+      "main": "Clear",
+      "description": "clear sky",
+      "icon": "01d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 38.98,
+    "feels_like": 37.24,
+    "temp_min": 38.98,
+    "temp_max": 38.98,
+    "pressure": 1004,
+    "humidity": 17
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 3.09,
+    "deg": 10
+  },
+  "clouds": {
+    "all": 0
+  },
+  "dt": 1689585958,
+  "sys": {
+    "type": 1,
+    "id": 9008,
+    "country": "UZ",
+    "sunrise": 1689554251,
+    "sunset": 1689607755
+  },
+  "timezone": 18000,
+  "id": 1512473,
+  "name": "Urgench",
+  "cod": 200
+}
